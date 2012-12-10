@@ -1,0 +1,17 @@
+<module version="4" type="JAVA_MODULE">
+  <component name="FacetManager">
+    <facet name="Scala" type="scala">
+      <configuration>
+        <option name="compilerLibraryLevel" value="Project"></option>
+        <option name="compilerLibraryName" value="scala-2.9.1"></option>
+        <option name="fsc" value="true"></option>
+        <option name="deprecationWarnings" value="true"></option>
+        <option name="uncheckedWarnings" value="true"></option>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../target/scala-2.9.1/classes"></output>
+    <output-test url="file://$MODULE_DIR$/../target/scala-2.9.1/test-classes"></output-test>
+    <exclude-output></exclude-output>
+    <content url="file:///home/gsd/

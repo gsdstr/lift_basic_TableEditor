@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="net.liftmodules_lift-jquery-module_2.9.1_2.5-M3-2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.liftmodules/lift-jquery-module_2.9.1/jars/lift-jquery-module_2.9.1-2.5-M3-2.0.jar!/"></root>
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.liftmodules/lift-jquery-module_2.9.1/docs/lift-jquery-module_2.9.1-2.5-M3-2.0-javadoc.jar!/"></root>
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.liftmodules/lift-jquery-module_2.9.1/srcs/lift-jquery-module_2.9.1-2.5-M3-2.0-sources.jar!/"></root>
+    </SOURCES>
+  </library>
+</component>
